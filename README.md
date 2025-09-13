@@ -12,3 +12,7 @@ A simple web app to save, edit, and manage notes.
 
 ### Notes List
 ![Notes List Screenshot](./screenshot-list.png)
+
+
+## 🚀 Live Demo
+[Click here to view the project](http://paste-app-henna-two.vercel.app)
